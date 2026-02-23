@@ -1,0 +1,73 @@
+{
+  "recipes": [
+    {
+      "title": "Classic Tomato Spinach Pasta",
+      "description": "Quick pasta with tomato, spinach, garlic and olive oil.",
+      "category": "dinner",
+      "tags": ["quick", "italian"],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "ingredients": [
+        {"name": "Pasta", "amount": "200", "unit": "g"},
+        {"name": "Tomato", "amount": "2", "unit": ""},
+        {"name": "Spinach", "amount": "2", "unit": "cups"},
+        {"name": "Garlic", "amount": "2", "unit": "cloves"},
+        {"name": "Olive oil", "amount": "2", "unit": "tbsp"},
+        {"name": "Salt", "amount": "to taste", "unit": ""}
+      ],
+      "steps": [
+        "Boil pasta until al dente.",
+        "Sauté garlic in olive oil.",
+        "Add tomatoes and cook 5 minutes.",
+        "Add spinach to wilt.",
+        "Toss pasta with sauce, season and serve."
+      ]
+    },
+    {
+      "title": "Veggie Omelette",
+      "description": "Fluffy omelette with mixed vegetables and cheese.",
+      "category": "breakfast",
+      "tags": ["high-protein", "quick"],
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 1,
+      "ingredients": [
+        {"name": "Eggs", "amount": "3", "unit": ""},
+        {"name": "Onion", "amount": "2", "unit": "tbsp"},
+        {"name": "Bell pepper", "amount": "2", "unit": "tbsp"},
+        {"name": "Spinach", "amount": "1", "unit": "handful"},
+        {"name": "Cheese", "amount": "30", "unit": "g"},
+        {"name": "Butter", "amount": "1", "unit": "tsp"}
+      ],
+      "steps": [
+        "Beat eggs with salt and pepper.",
+        "Sauté onion and pepper in butter.",
+        "Add spinach to wilt.",
+        "Pour eggs, cook until set.",
+        "Add cheese, fold and serve."
+      ]
+    },
+    {
+      "title": "Simple Guacamole",
+      "description": "Creamy guacamole with avocado, lime, onion and cilantro.",
+      "category": "snack",
+      "tags": ["vegan", "dip"],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "ingredients": [
+        {"name": "Avocado", "amount": "2", "unit": ""},
+        {"name": "Lime", "amount": "1", "unit": ""},
+        {"name": "Onion", "amount": "2", "unit": "tbsp"},
+        {"name": "Cilantro", "amount": "2", "unit": "tbsp"},
+        {"name": "Salt", "amount": "to taste", "unit": ""}
+      ],
+      "steps": [
+        "Mash avocados.",
+        "Stir in lime juice, onion and cilantro.",
+        "Season with salt and serve."
+      ]
+    }
+  ]
+}
